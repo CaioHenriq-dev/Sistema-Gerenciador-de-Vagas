@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Sevillana&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Inter', serif;
+    font-size: 50px;
+    font-weight: 800;
+
+ 
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: column;
+    margin-bottom: 30px;
+   
+}
+
+
+
+.logo{
+    display: flex;
+    height: 80px ;
+    width: 80px ;
+    
+}
+
+.btn{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-cont{
+
+  background-color: #0247ae;
+    color: white;
+    border-bottom: white;
+    border-radius: 50px;
+    height: 320px ;
+    width: 800px ;
+    font-size: 60px;
+    margin-bottom: 25px;
+    font-family: 'Inter', serif;
+    font-weight: 500;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+a{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0247ae;
+    color: white;
+    border-bottom: white;
+    border-radius: 50px;
+    height: 320px ;
+    width: 800px ;
+    font-size: 60px;
+    margin-bottom: 25px;
+    font-family: 'Inter', serif;
+    font-weight: 500;
+}
+
+
+
+/* a:link {
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: none;
+  } */
+  
